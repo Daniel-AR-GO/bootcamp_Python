@@ -1,0 +1,43 @@
+{
+    "fecha": "12/24/2019",
+    "total_efectivo": "165500.0",
+    "total_acciones": "9500",
+    "personas": [
+        {
+            "nombre": "Katia Lira ",
+            "acciones": "1000",
+            "efectivo": "10000.0",
+            "porcentaje": "6.042296072507553 %"
+        },
+        {
+            "nombre": "Lilo",
+            "acciones": "1000",
+            "efectivo": "12000.0",
+            "porcentaje": "7.2507552870090635 %"
+        },
+        {
+            "nombre": "Robin",
+            "acciones": "2000",
+            "efectivo": "40000.0",
+            "porcentaje": "24.169184290030213 %"
+        },
+        {
+            "nombre": "Mila",
+            "acciones": "2000",
+            "efectivo": "40000.0",
+            "porcentaje": "24.169184290030213 %"
+        },
+        {
+            "nombre": "Rufus",
+            "acciones": "2000",
+            "efectivo": "50000.0",
+            "porcentaje": "30.211480362537763 %"
+        },
+        {
+            "nombre": "Buddy",
+            "acciones": "1500",
+            "efectivo": "13500.0",
+            "porcentaje": "8.157099697885196 %"
+        }
+    ]
+}
